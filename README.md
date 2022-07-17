@@ -5,8 +5,8 @@ Thenavigo is an online Q&A community. It is built conscientious atmosphere, conn
 </div>
 
 > 🚧 ***IT IS UNDER ACTIVE DEVELOPMENT, current version is unstable and maybe change at any time until release of v1.0.0.***
-<br>***We will need your feedbacks [Thenaigo Q&A](https://isaacpatrick183684.typeform.com/to/XEuHqTwp?typeform-source=t.co),
+<br>***We will need your feedbacks [Thenavigo Q&A](https://isaacpatrick183684.typeform.com/to/XEuHqTwp?typeform-source=t.co),
 Thank you!!!*** ⚠️
 
 ## Demo
-[Thenaigo Q&A](http://thenavigo.com/)
+[Thenavigo Q&A](http://thenavigo.com/)
