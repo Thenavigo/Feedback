@@ -1,4 +1,17 @@
-<h1 align="center">Thenavigo Q&A Q&A Community (version 1.0)</h1>
+<!-- Logo -->
+<p align="center">
+  <a href="https://github.com/Thenavigo/Feedback">
+    <img src="https://github.com/Thenavigo/Feedback/blob/main/logos/Tnvgok.png">
+  </a>
+</p>
+
+
+<!-- Name -->
+<h1 align="center">
+  <a href="https://github.com/Thenavigo/Feedback"> Thenavigo Q&A </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 30px;font-weight: 400;"> Community (version 1.0) </span>:rocket:
+</h1>
+
+
 
 <div align="center">
 Thenavigo is an online Q&A Community. It is built conscientious atmosphere, connecting elites from all sectors..
